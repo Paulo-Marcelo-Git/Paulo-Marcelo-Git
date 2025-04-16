@@ -32,7 +32,7 @@
 ## 📫 Como me encontrar
 
 - Email: **pmc.silva20@gmail.com**
-- LinkedIn: [https://www.linkedin.com[(/in/paulo-marcelo-cardoso-da-silva-bb1591217/)
+- LinkedIn: https://www.linkedin.com/in/paulo-marcelo-cardoso-da-silva-bb1591217/
 - GitHub: [@Paulo-Marcelo-Git](https://github.com/Paulo-Marcelo-Git)
 
 ---
